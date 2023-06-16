@@ -38,6 +38,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
+    "next.config.cjs",
     "tailwind.config.cjs",
     "postcss.config.cjs",
     ".eslintrc.cjs",

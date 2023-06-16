@@ -8,10 +8,14 @@
         ".next/**",
         "!.next/cache/**"
       ],
-      "dependsOn": ["^build"]
+      "dependsOn": [
+        "^build"
+      ]
     },
     "test": {
-      "outputs": ["coverage/**"],
+      "outputs": [
+        "coverage/**"
+      ],
       "dependsOn": []
     },
     "test:watch": {
